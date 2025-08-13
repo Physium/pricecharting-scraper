@@ -2,6 +2,8 @@
 
 A Python service for extracting Pokemon card pricing information from PriceCharting.com.
 
+Disclaimer: 100% vibe coded
+
 ## Features
 
 - Extract card name, ungraded price, and PSA 10 price from PriceCharting URLs
